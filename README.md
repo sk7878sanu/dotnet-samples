@@ -9,7 +9,7 @@ to the organization of the docs for .NET. Some of the articles will have more th
 
 The content team tracks issues for .NET documentation in the [dotnet/docs](https://github.com/dotnet/docs) and [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) repositories. Issues are turned off on this repository. File issues against existing samples and suggestions for new samples in those repositories. If you're not sure where, choose [dotnet/docs](https://github.com/dotnet/docs/issues). This process keeps the issues associated with the articles that explain the concepts for each sample. The best process is to file an issue from the feedback control at the bottom of each docs page:
 
-- For existing samples, file the issue on the page with the sample.
+-For existing samples, file the issue on the page with the sample.
 - To suggest new samples, file the issue on the index page where you want to see the new sample.
 
 The code in this repository represents programs that demonstrate application or library scenarios. These samples often use more than one technology, feature, or toolkit. Each sample has a readme.md file that explains the sample and links to resources for more information.
